@@ -3,7 +3,7 @@
 
 # Let's Connect:
 
-[![Linkedin Badge](https://img.shields.io/badge/-carmenamba-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmen-amba-226975185/)](https://www.linkedin.com/in/carmen-amba-226975185/) [![Twitter Badge](https://img.shields.io/badge/-@car__mie-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/car__mie)](https://twitter.com/car__mie)
+[![Linkedin Badge](https://img.shields.io/badge/-emmanueloloke-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-oloke/)](https://www.linkedin.com/in/emmanuel-oloke/) [![Twitter Badge](https://img.shields.io/badge/-@I_am_Pope-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/I_am_Pope)](https://twitter.com/I_am_Pope)
 
 # 😃 Quick Facts About Me:
 
